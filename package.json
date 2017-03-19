@@ -4,5 +4,11 @@
   "description": "TypeScript - React app. Setting up from scratch.",
   "main": "index.js",
   "author": "Sriram Thiagarajan <sri.sjc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^15.0.16",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }
