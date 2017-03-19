@@ -1,0 +1,8 @@
+{
+  "name": "ts-react",
+  "version": "1.0.0",
+  "description": "TypeScript - React app. Setting up from scratch.",
+  "main": "index.js",
+  "author": "Sriram Thiagarajan <sri.sjc@gmail.com>",
+  "license": "MIT"
+}
